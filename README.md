@@ -1,5 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on...
+- 🌱 I’m currently learning Django web framework
+- 👯 I’m looking to collaborate on a niche trivia app
 
+[![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ncarsner)](https://github.com/ncarsner/github-readme-stats)
 <!--
 **ncarsner/ncarsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
