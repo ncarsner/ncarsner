@@ -2,11 +2,10 @@
 - 🌱 I’m currently learning Django web framework.
 - 👯 I’m looking to collaborate on a niche trivia app.
 
-![Nicholas' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncarsner&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
-
 <!--
 ![Nicholas' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ncarsner&theme=highcontrast&hide_border=false)
 ![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncarsner&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![Nicholas' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncarsner&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 **ncarsner/ncarsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
