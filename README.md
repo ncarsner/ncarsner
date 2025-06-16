@@ -2,12 +2,14 @@
 - 🌱 I’m currently learning Django web framework.
 - 👯 I’m looking to collaborate on a niche trivia app.
 
+[![My Skills](https://skillicons.dev/icons?i=git,azure,bitbucket,flask,github,mongodb,pkl,powershell,py,regex,vscode,windows&perline=4)](https://skillicons.dev)
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,azure,bitbucket,flask,github,mongodb,pkl,powershell,py,regex,vscode,windows" />
   </a>
 </p>
-
+-->
 ![Nicholas' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ncarsner&theme=highcontrast&hide_border=false)
 
 <!--
