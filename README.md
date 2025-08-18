@@ -1,9 +1,9 @@
 - 🔭 I’m currently working on more efficient and visual documentation methodologies.
 - 🌱 I’m currently learning Django web framework.
 - 👯 I’m looking to collaborate on a niche trivia app.
-
-[![My Skills](https://skillicons.dev/icons?i=git,azure,bitbucket,github,regex,pkl,py,powershell,mongodb,flask,vscode,windows&perline=6)](https://skillicons.dev)
 <!--
+[![My Skills](https://skillicons.dev/icons?i=git,azure,bitbucket,github,regex,pkl,py,powershell,mongodb,flask,vscode,windows&perline=6)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,azure,bitbucket,flask,github,mongodb,pkl,powershell,py,regex,vscode,windows" />
