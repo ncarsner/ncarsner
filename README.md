@@ -1,8 +1,8 @@
 - 🔭 I’m currently working on more efficient and visual documentation methodologies.
 - 🌱 I’m currently learning Django web framework.
 - 👯 I’m looking to collaborate on a niche trivia app.
-<!--
 [![My Skills](https://skillicons.dev/icons?i=git,azure,bitbucket,github,regex,pkl,py,powershell,mongodb,flask,vscode,windows&perline=6)](https://skillicons.dev)
+<!--
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,9 +10,8 @@
   </a>
 </p>
 -->
-![Nicholas' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ncarsner&theme=highcontrast&hide_border=false)
-
 <!--
+![Nicholas' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ncarsner&theme=highcontrast&hide_border=false)
 ![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncarsner&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ![Nicholas' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncarsner&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
