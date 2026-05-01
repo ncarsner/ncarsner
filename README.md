@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django web framework.
 - 👯 I’m looking to collaborate on a niche trivia app.
 -->
-[![My Skills](https://skillicons.dev/icons?i=git,azure,bitbucket,github,regex,pkl,py,powershell,mongodb,flask,vscode,windows&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,azure,bitbucket,docker,github,linkedin,regex,pkl,py,powershell,mongodb,flask,vscode,windows&perline=5)](https://skillicons.dev)
 <!--
 
 <p align="center">
