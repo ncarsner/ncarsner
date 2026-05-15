@@ -6,7 +6,7 @@
 
 [![Maintainer](https://img.shields.io/badge/maintainer-sql--query--anonymizer-blue?logo=pypi)](https://pypi.org/project/sql-query-anonymizer/)
 
-[![Maintainer](https://img.shields.io/badge/maintainer-wordle-words-blue?logo=pypi)](https://pypi.org/project/wordle-words/)
+[![Maintainer](https://img.shields.io/badge/maintainer-wordle--words-blue?logo=pypi)](https://pypi.org/project/wordle-words/)
 
 [![Maintainer](https://img.shields.io/badge/maintainer-pythodds-blue?logo=pypi)](https://pypi.org/project/pythodds/)
      
