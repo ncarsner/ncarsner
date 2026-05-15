@@ -5,8 +5,10 @@
 -->
 
 [![Maintainer](https://img.shields.io/badge/maintainer-sql--query--anonymizer-blue?logo=pypi)](https://pypi.org/project/sql-query-anonymizer/)
-[![Maintainer](https://img.shields.io/badge/maintainer-sql--query--anonymizer-blue?logo=pypi)](https://pypi.org/project/wordle-words/)
-[![Maintainer](https://img.shields.io/badge/maintainer-sql--query--anonymizer-blue?logo=pypi)](https://pypi.org/project/pythodds/)
+
+[![Maintainer](https://img.shields.io/badge/maintainer-wordle-words-blue?logo=pypi)](https://pypi.org/project/wordle-words/)
+
+[![Maintainer](https://img.shields.io/badge/maintainer-pythodds-blue?logo=pypi)](https://pypi.org/project/pythodds/)
      
 [![My Skills](https://skillicons.dev/icons?i=azure,bitbucket,django,docker,flask,git,github,linkedin,mongodb,mysql,regex,pkl,py,powershell,vscode,windows&perline=8)](https://skillicons.dev)
 <!--
